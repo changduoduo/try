@@ -7,5 +7,7 @@ public class tryone {
         System.out.println("cccccc");
         System.out.println("cccccc");
         System.out.println("cccccc");
+        System.out.println("cccccc");
+        System.out.println("dddddd");
     }
 }
